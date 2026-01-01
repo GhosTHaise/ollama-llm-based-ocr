@@ -71,3 +71,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - [Ollama LLM](https://ollama.ai/) for providing the language model.
 - [LangChain](https://www.langchain.com/) for the prompt and output parsing utilities.
+- [source](https://www.youtube.com/watch?v=Huy-Gn4RtGQ) for the idea of using the Ollama LLM for OCR.
